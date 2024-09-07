@@ -1,0 +1,3 @@
+[submodule "zerotier"]
+	path = zerotier
+	url = https://github.com/animegasan/luci-app-zerotier.git
