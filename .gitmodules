@@ -1,9 +1,9 @@
-[submodule "zerotier"]
-	path = zerotier
-	url = https://github.com/animegasan/luci-app-zerotier.git
 [submodule "luci-app-vlmcsd"]
 	path = luci-app-vlmcsd
 	url = https://github.com/mchome/luci-app-vlmcsd
 [submodule "openwrt-vlmcsd"]
 	path = openwrt-vlmcsd
 	url = https://github.com/mchome/openwrt-vlmcsd
+[submodule "luci-app-zerotier"]
+	path = luci-app-zerotier
+	url = https://github.com/animegasan/luci-app-zerotier
